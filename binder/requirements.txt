@@ -14,7 +14,6 @@ jupyterlab
 ipywidgets
 RISE
 pandas
-cassandra
 numpy
 cassandra-driver
 
