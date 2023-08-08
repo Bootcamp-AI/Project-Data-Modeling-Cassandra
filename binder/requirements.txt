@@ -13,9 +13,6 @@
 jupyterlab
 ipywidgets
 RISE
-pandas
-numpy
-cassandra-driver
 
 #vscode
 jupyter-server-proxy
